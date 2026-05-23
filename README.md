@@ -23,6 +23,10 @@ O SGFLOW simula um fluxo logístico com caminhões, cargas e rotas, aplicando **
 
 ## Como executar
 
+link do site: https://sistema-sgflow.onrender.com
+
+ou
+
 Na pasta do projeto, execute:
 
 ```
